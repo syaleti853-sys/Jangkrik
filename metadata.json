@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Email Automation & Analytics",
+  "description": "Portasi otomasi email resmi dengan integrasi Gmail API, sinkronisasi kontak Google Workspace, serta pendaftaran instan masal akun media sosial (Instagram, TikTok, X, Facebook, YouTube) berbasis Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
